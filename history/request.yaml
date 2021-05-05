@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE09OSSM-MFD35-05-PCO2WB000-telemetered-pco2w_abc_dcl_instrument_blank
 last_request: '2021-05-04T22:29:20.466335Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-MFD35-05-PCO2WB000-telemetered-pco2w_abc_dcl_instrument_blank/main/history/response.json
-status: pending
+status: success
